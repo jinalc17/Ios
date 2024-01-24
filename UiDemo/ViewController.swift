@@ -54,6 +54,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         labelValue.layer.borderWidth = 1.0
         labelValue.layer.borderColor = UIColor.black.cgColor
+        labelValue.layer.backgroundColor = UIColor.white.cgColor
         
     }
     
